@@ -163,6 +163,9 @@ span {
     color: #007185;
 }
 
+.hero-message a:focus {
+    text-decoration: underline;
+}
 /*Shop section */
 .shop-section {
     display: flex;

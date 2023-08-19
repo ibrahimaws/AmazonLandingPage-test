@@ -1,4 +1,4 @@
-# Prabhat's Landing Page - TECHNOHACKS
+# Prabhat's Amazon Landing Page - TECHNOHACKS
 
 Currency Converter at TechnoHacks
 
@@ -19,6 +19,7 @@ IDE: VSCODE
 - CSS
 
 GitHub Repository Link:https://github.com/prabhatrsharma/TechnoHacks-AmazonLandingPage.git
+
 Hosted Website Link: [https://prabharsharma.github.io/TechnoHacks-AmazonLandingPage/](https://prabhatrsharma.github.io/TechnoHacks-AmazonLandingPage/)
 
 To know MORE about TECHNOHACKS EDUTECH Website: 

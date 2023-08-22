@@ -1,6 +1,6 @@
 # Prabhat's Amazon Landing Page - TECHNOHACKS
 
-Currency Converter at TechnoHacks
+Landing Page at TechnoHacks
 
 # Prabhat Sharma
 
